@@ -20,8 +20,65 @@
               "icon": "lucide-file",
               "title": "UE的C++反射系统"
             }
+          },
+          {
+            "id": "da42d727ebc78e63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unreal Engine/UE的Src理解/虚幻C++基础/Module-UBT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Module-UBT"
+            }
+          },
+          {
+            "id": "280fe899af39c4bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Houdini/Houdini中的体积格式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Houdini中的体积格式"
+            }
+          },
+          {
+            "id": "c9eaef0d0dafcc45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/C++和计算机基础总览.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C++和计算机基础总览"
+            }
+          },
+          {
+            "id": "127f20bdf47d8020",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Houdini/Houdini的Group.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Houdini的Group"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -78,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 297.5
   },
   "right": {
     "id": "d0a4ae05fc5a0284",
@@ -142,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unreal Engine/UE的Src理解/UE的C++反射系统.md",
+                "file": "Houdini/Houdini的Group.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "UE的C++反射系统 的大纲"
+              "title": "Houdini的Group 的大纲"
             }
           }
         ],
@@ -172,7 +229,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 492.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,14 +242,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f8597e26ce42bf2f",
+  "active": "127f20bdf47d8020",
   "lastOpenFiles": [
-    "Unreal Engine/GAS/GAS总览.md",
+    "Houdini/Houdini制作地形.md",
+    "Houdini/Houdini中的体积格式.md",
+    "Houdini/Houdini的Group.md",
+    "Houdini/Res/Pasted image 20251214120942.png",
+    "Houdini/Res",
     "Unreal Engine/UE里面的Renderer.md",
-    "Unreal Engine/UE的Src理解/UE代码粗解.md",
-    "Unreal Engine/GAS",
+    "C++/C++和计算机基础总览.md",
+    "C++",
+    "Unreal Engine/UE的Src理解/虚幻C++基础/Module-UBT.md",
+    "Unreal Engine/UE的Src理解/虚幻C++基础/UE的C++反射系统.md",
+    "Unreal Engine/UE的Src理解/虚幻C++基础/UE代码粗解.md",
+    "Unreal Engine/UE的Src理解/虚幻C++基础",
     "Unreal Engine/UE的Src理解/UE的渲染体统之于游戏引擎.md",
-    "Unreal Engine/UE的Src理解/UE的C++反射系统.md",
+    "Unreal Engine/GAS/GAS总览.md",
+    "Unreal Engine/GAS",
     "GPU硬件/GPU硬件结构.md",
     "批处理.md",
     "Rendering",
@@ -217,15 +283,6 @@
     "Rendering/后处理/Bloom.md",
     "Rendering/后处理/运动模糊.md",
     "Rendering/高级纹理/渲染纹理.md",
-    "Unreal Engine/UE的地形系统",
-    "Houdini/Houdini制作地形.md",
-    "Houdini",
-    "Unreal Engine/UE的Src理解",
-    "未命名.base",
-    "未命名 1.md",
-    "Unity/Unity渲染管线/Rendering Pipeline.md",
-    "Unity/Unity渲染管线/URP Universal Renderer Settings.md",
-    "Unity/Unity渲染管线/URP中的渲染.md",
-    "Unity/Unity渲染管线/URP Global Settings.md"
+    "Unreal Engine/UE的地形系统"
   ]
 }

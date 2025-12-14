@@ -1,0 +1,2 @@
+C++编译的方式是把.cpp文件使用compiler编译成为obj文件，然后再通过linker编译成为exe文件或者dll文件。
+exe文件（PE）自己有一份虚拟内存，这个虚拟内存
