@@ -1,0 +1,5 @@
+虚幻引擎的rendering thread总是晚于game thread一到两帧执行。两个线程之间需要同时执行，但是不同的机器设备上面执行的速度是不一样的，这很容易引起bug。理解game thread和rendering thread相当重要。
+
+
+## 线程的特殊数据结构
+UPrimitiveComponent是在基础的game thread里面可以被渲染的物体，但是在被rendering thread执行的时候，这些东西会被注册成为FPrimitiveSceneProxy给renderer专门使用。

@@ -1,0 +1,1 @@
+GameplayCue的触发有两种方式，一种是[[Gameplay Ability]]直接触发
